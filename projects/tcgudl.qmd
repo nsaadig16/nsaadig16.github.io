@@ -1,0 +1,41 @@
+---
+title: Trading Card Game UdL
+abstract: Web app built in Django that replicates a trading card game
+categories: University project 
+image: "/imgs/tcgudl.png"
+author: 
+    - name: Naïm Saadi Gallego
+      url: https://linkedin.com/in/nsaadig16
+    - name: Pol Llinàs Vaquer
+      url: https://www.linkedin.com/in/pol-llinas-vaquer/
+    - name: Gerard Tersa Lleopart
+      url: https://www.linkedin.com/in/gerard-tersa-lleopart-246970345/
+    - name: Augustin Belu
+      url: https://www.linkedin.com/in/augustin-belu-269685306/
+---
+
+<img src="/imgs/tcgudl2.png" width=600 align=center class="imgs">
+
+<p></p>
+## Description
+
+**TCGUdL** is a web application developed in Django that replicates a trading card game style. Created as a project for our "Web Project" 
+class, it contains UdL professors as characters in the cards.
+
+Check the repo [here](https://github.com/nsaadig16/TCGUdL)! 
+ 
+## Development process
+
+<p align="justify">
+Our team, composed mainly of second-year students enrolled in a third-year class, was given the task of developing a web app that met a series of requirements but could follow any theme we wanted. We decided to take this project head-on and replicate the pack-opening and collection aspects of a typical trading card game. Along the way, we learned about Docker, Python’s framework Django, RDFa, and several other aspects of web development—all while enjoying the game aspect of the web.
+</p>
+
+## Technologies used
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg){width=60}
+![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg){width=60}
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg){width=60}
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg){width=60}
+![Poetry](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg){width=60}
+![Pytest](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg){width=60}
+![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg){width=60}

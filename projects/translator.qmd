@@ -2,8 +2,6 @@
 title: Translator UABTheHack
 abstract: Python `pip` library using Google Translator
 categories: Hackathon project
-website:
-    repo-url: https://github.com/nsaadig16/nsaadig16 
 image: "/imgs/translator.jpg"
 author: 
     - name: Naïm Saadi Gallego
