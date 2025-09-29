@@ -1,7 +1,30 @@
 ---
-title: "my_portfolio"
+title: "nsaadig16"
+about:
+    template: jolla
+    image: imgs/nsaadig16.jpg
+    image-alt: Naïm
+    links: 
+      - icon: github
+        text: GitHub
+        href: https://github.com/nsaadig16
+        aria-label: GitHub link
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/nsaadig16/
+        aria-label: LinkedIn link
+      - icon: code-square
+        text: DevPost
+        href: https://devpost.com/nsaadig16
+        aria-label: DevPost link  
 ---
 
-This is a Quarto website.
+Hi! My name is **Naïm Saadi Gallego**.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm an undergrad Computer Science student at University of Lleida (UdL). I'm passionate
+about technology and continuous learning. Over the past two years, I actively participated in 
+hackathons and gamejams, which have sharpened my problem-solving skills, strengthened my teamwork abilities and improved my knowledge as a future engineer.
+
+I'm eager to keep growing as a developer by taking on new challenges and applying my skills to real-world projects.
+
+You can reach me at [nsaadig16@gmail.com](mailto:nsaadig16@gmail.com)
