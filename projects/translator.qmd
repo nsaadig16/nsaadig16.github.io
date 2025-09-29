@@ -1,0 +1,41 @@
+---
+title: Translator UABTheHack
+abstract: Python `pip` library using Google Translator
+categories: Hackathon project
+website:
+    repo-url: https://github.com/nsaadig16/nsaadig16 
+image: "/imgs/translator.jpg"
+author: 
+    - name: Naïm Saadi Gallego
+      url: https://linkedin.com/in/nsaadig16
+    - name: Nataly Jaya Salazar
+      url: https://www.linkedin.com/in/natjs/
+    - name: Lluc Vivet Torras
+      url: https://github.com/Zpidero
+---
+
+<img src="/imgs/translator.jpg" width=400 align=center class="imgs">
+
+<p></p>
+## Description
+
+**Translator UABTheHack** is a `pip` library developed in the University of Barcelona's (UAB) first hackathon, *UABTheHack*. It contains a method called 
+`translate_code()` that takes a file and translates it to another language using the Google Translate API.
+
+Check the repo [here](https://github.com/nsaadig16/translator-UAB)! 
+ 
+## Development process
+
+<p align="justify">
+This was the first hackathon I attended, knowing just a few things about basic programming. During the event's presentation, a foreign participant asked
+the organizers if they could switch languages for their ease of understanding. Once the presentation finished, we thought that it was a problem that someone
+couldn't understand the language, so we decided to develop a tool that could help solve the problem. We decided to do it in Python, a language that we hadn't
+really used but that was simple enough to not be a barrier. Twenty-four hours later, we had developed a `pip` library that translated code into other languages.
+Even though it was slow and not very complex, it helped us win the **Rookies Award**, a prize to the best first-year participants in the event.
+</p>
+
+## Technologies used
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg){width=60}
+![PyPi](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original-wordmark.svg){width=60}
+          

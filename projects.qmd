@@ -1,0 +1,9 @@
+---
+title: My projects
+listing:
+    contents: projects
+    type: grid
+    fields: [image, title, categories, description]
+    categories: unnumbered
+---
+
