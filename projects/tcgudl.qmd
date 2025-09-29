@@ -38,4 +38,5 @@ Our team, composed mainly of second-year students enrolled in a third-year class
 ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg){width=60}
 ![Poetry](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg){width=60}
 ![Pytest](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg){width=60}
+![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg){width=60}
 ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg){width=60}

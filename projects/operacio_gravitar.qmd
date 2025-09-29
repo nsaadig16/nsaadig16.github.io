@@ -21,7 +21,7 @@ author:
 **Operació: Gravitar** is a game created at the *Lleida's 2024 Lan Party Game Jam*. It presents Nil, an astronaut who has been sent on a mission to
 collect precious mineral from the pletorian moon while trying to avoid the imminent asteroid rain.
 
-Check the repo [here](https://github.com/nsaadig16/TCGUdL)! 
+Check the game [here](https://kanki-projects.itch.io/operaci-gravit)! 
  
 ## Development process
 

@@ -1,0 +1,46 @@
+---
+title: "Voyager's choice"
+abstract: Website to plan a trip with your friends
+categories: Hackaton project
+image: "/imgs/voyagers_choice.jpg"
+author: 
+    - name: Naïm Saadi Gallego
+      url: https://linkedin.com/in/nsaadig16
+    - name: Lotfi Bouakel Chaib
+      url: https://www.linkedin.com/in/lotfi-bouakel-chaib/
+    - name: Júlia Calvo Besó
+      url: https://www.github.com/juliz1
+    - name: Lluc Vivet Torras
+      url: https://www.github.com/Zpidero
+---
+
+<img src="/imgs/voyagers_choice.jpg" width=600 align=center class="imgs">
+
+## Description
+
+**Voyager's choice** is a website used to plan a trip with your friends. You and your trip companions will join a room,
+where a slideshow of travel destinations will show up. Everyone can vote on it and take part in the final decision.
+
+Check the repo [here](https://github.com/nsaadig16/Voyagers-Choice)! 
+ 
+## Development process
+
+<p align="justify">
+At *HackUPC2025* we developed a website for the SkyScanner challenge called "Voyager's Choice". I worked in the backend alongside
+Lluc Vivet, using Gemini's API to process the data and SQLite as our database. The structure of it was quite simple: the frontend
+would take a form with the preferences of the user's trip and the backend processed it with Gemini and the flight database given to us by SkyScanner,
+and would return a pseudo-presentation that changed with each votes. It was a way to learn about new tools and face personal challenges.
+</p>
+
+## Technologies used
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg){width=60}
+![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg){width=60}
+![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg){width=60}
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg){width=60}
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg){width=60}
+![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg){width=60}
+![npm](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg){width=60}
+![json](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg){width=60}
+
+
