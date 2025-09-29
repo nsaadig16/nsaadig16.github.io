@@ -1,0 +1,40 @@
+---
+title: "Operació: Gravitar"
+abstract: Tower defense game inspired by the theme "Out of orbit"
+categories: Game jam project 
+image: "/imgs/operacio_gravitar.png"
+author: 
+    - name: Naïm Saadi Gallego
+      url: https://linkedin.com/in/nsaadig16
+    - name: Laura Haro Escoi
+      url: https://www.linkedin.com/in/lauraharoescoi/
+    - name: Jon Gomez Palomar
+      url: https://www.linkedin.com/in/jon-gomez-palomar/
+    - name: Lluc Vivet Torras
+      url: https://www.github.com/Zpidero
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vHuw2xcWoxQ?si=jBirOSqM-omaxzMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p></p>
+## Description
+
+**Operació: Gravitar** is a game created at the *Lleida's 2024 Lan Party Game Jam*. It presents Nil, an astronaut who has been sent on a mission to
+collect precious mineral from the pletorian moon while trying to avoid the imminent asteroid rain.
+
+Check the repo [here](https://github.com/nsaadig16/TCGUdL)! 
+ 
+## Development process
+
+<p align="justify">
+This was my first game jam, where we were given the theme "Out of orbit". After some hours of brainstorming, we came up with
+the idea of having the player orbit around the planet. We also wanted to implement some sort of "resource management", so we decided
+that the player should collect pieces of mineral and bring them to the factory. Then we implemented the asteroid rain which gave the
+player the option to throw the mineral upwards against the asteroid to defend the planet from destruction. Thanks to the team's work
+combined and the masterclass given to us by [Brián Piancino](https://www.linkedin.com/in/brian-piancino/) we were able to develop the
+game and win the event's first prize.
+</p>
+
+## Technologies used
+
+![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg){width=60}
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg){width=60}
