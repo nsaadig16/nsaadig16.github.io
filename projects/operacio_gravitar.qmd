@@ -27,10 +27,13 @@ Check the game [here](https://kanki-projects.itch.io/operaci-gravit)!
 
 <p align="justify">
 This was my first game jam, where we were given the theme "Out of orbit". After some hours of brainstorming, we came up with
-the idea of having the player orbit around the planet. We also wanted to implement some sort of "resource management", so we decided
+the idea of having the player orbit around the planet. 
+
+We also wanted to implement some sort of "resource management", so we decided
 that the player should collect pieces of mineral and bring them to the factory. Then we implemented the asteroid rain which gave the
-player the option to throw the mineral upwards against the asteroid to defend the planet from destruction. Thanks to the team's work
-combined and the masterclass given to us by [Brián Piancino](https://www.linkedin.com/in/brian-piancino/) we were able to develop the
+player the option to throw the mineral upwards against the asteroid to defend the planet from destruction. 
+
+Thanks to the team's work combined and the masterclass given to us by [Brián Piancino](https://www.linkedin.com/in/brian-piancino/) we were able to develop the
 game and win the event's first prize.
 </p>
 

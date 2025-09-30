@@ -1,7 +1,7 @@
 ---
 title: "Voyager's choice"
 abstract: Website to plan a trip with your friends
-categories: Hackaton project
+categories: Hackathon project
 image: "/imgs/voyagers_choice.jpg"
 author: 
     - name: Naïm Saadi Gallego
@@ -26,11 +26,15 @@ Check the repo [here](https://github.com/nsaadig16/Voyagers-Choice)!
 ## Development process
 
 <p align="justify">
-At *HackUPC2025* we developed a website for the SkyScanner challenge called "Voyager's Choice". I worked in the backend alongside
-Lluc Vivet, using Gemini's API to process the data and SQLite as our database. The structure of it was quite simple: the frontend
-would take a form with the preferences of the user's trip and the backend processed it with Gemini and the flight database given to us by SkyScanner,
-and would return a pseudo-presentation that changed with each votes. It was a way to learn about new tools and face personal challenges.
-</p>
+At *HackUPC 2025*, we developed a website for the SkyScanner challenge called "Voyager's Choice." 
+I worked on the backend alongside Lluc Vivet, using Gemini's API to process the data and SQLite as our database.
+
+The structure was quite simple: the frontend collected a form with the user’s trip preferences, 
+and the backend processed it with Gemini and the flight database provided by SkyScanner. 
+It then returned a pseudo-presentation that updated dynamically with each vote.
+
+This project was both a way to explore new tools and an opportunity to overcome personal challenges, as 
+we learned to work with **FastAPI** and **noSQL** databases.</p>
 
 ## Technologies used
 

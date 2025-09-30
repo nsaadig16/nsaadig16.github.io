@@ -27,7 +27,9 @@ Check the repo [here](https://github.com/nsaadig16/TCGUdL)!
 ## Development process
 
 <p align="justify">
-Our team, composed mainly of second-year students enrolled in a third-year class, was given the task of developing a web app that met a series of requirements but could follow any theme we wanted. We decided to take this project head-on and replicate the pack-opening and collection aspects of a typical trading card game. Along the way, we learned about Docker, Python’s framework Django, RDFa, and several other aspects of web development—all while enjoying the game aspect of the web.
+Our team, composed mainly of second-year students enrolled in a third-year class, was given the task of developing a **web app** that met a series of requirements but could follow any theme we wanted. 
+
+We decided to take this project head-on and replicate the pack-opening and collection aspects of a typical trading card game. Along the way, we learned about **Docker**, Python’s framework **Django**, RDFa, and several other aspects of web development—all while enjoying the game aspect of the web.
 </p>
 
 ## Technologies used

@@ -1,0 +1,43 @@
+---
+title: "Cartes del mite"
+abstract: RPG card game based on Catalan folklore
+categories: Game jam project 
+image: "/imgs/dracSJ.png"
+author: 
+    - name: Naïm Saadi Gallego
+      url: https://linkedin.com/in/nsaadig16
+    - name: Nataly Jaya Salazar
+      url: https://www.linkedin.com/in/natjs/
+    - name: Andreu Puig-gròs Munté
+      url: https://github.com/Apm-96
+    - name: Lluc Vivet Torras
+      url: https://www.github.com/Zpidero
+    - name: David Garcia Aybar
+      url: https://www.linkedin.com/in/david-garcia-aybar-053324310/
+---
+
+<img src="/imgs/cdm.png" width=400 align=center class="imgs">
+
+## Description
+
+**Cartes del mite** is a game created at the *Lleida's 2025 Lan Party Game Jam*. The game revolves around combined
+RPG and card mechanics, inspired by the game *Slay the Spire*, and themed around Catalan legends and folklore.
+
+## Development process
+
+<p align="justify">
+In this game jam, we were given the theme **"Catalan folklore and legends"**. We decided that creating a *boss rush* game,
+where each boss was based on a character from Catalan folklore, was the best idea. For the mechanics,
+ we took inspiration from the game *Slay the Spire* and started developing our concept.
+
+We also decided to try something new by using **Godot** as our game engine. Its system of nodes, 
+nesting, and inheritance reminded us of object-oriented programming, which was really interesting to explore.
+
+The coding was handled by Lluc, Nataly, and me, while David focused on sprites and visuals, 
+and Andreu worked on the game's music and sound effects. Even though we only managed 
+to complete a small demo, we’re motivated to keep developing the project and aim for a more polished final design.
+</p>
+
+## Technologies used
+
+![Godot](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg){width=60}\
