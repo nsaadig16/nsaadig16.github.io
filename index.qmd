@@ -18,7 +18,6 @@ about:
         href: https://devpost.com/nsaadig16
         aria-label: DevPost link  
 ---
-
 Hi! My name is **Naïm Saadi Gallego**.
 
 I'm an undergrad Computer Science student at University of Lleida (UdL). I'm passionate
@@ -26,5 +25,4 @@ about technology and continuous learning. Over the past two years, I actively pa
 hackathons and gamejams, which have sharpened my problem-solving skills, strengthened my teamwork abilities and improved my knowledge as a future engineer.
 
 I'm eager to keep growing as a developer by taking on new challenges and applying my skills to real-world projects.
-
 You can reach me at [nsaadig16@gmail.com](mailto:nsaadig16@gmail.com)

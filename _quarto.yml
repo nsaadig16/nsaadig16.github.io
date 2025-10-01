@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  favicon: /imgs/favicon.ico
   title: "nsaadig16"
   navbar:
     left:
@@ -17,6 +18,7 @@ format:
     fontsize: large
     css: styles.css
     toc: true
+
 
 
 
