@@ -1,8 +1,9 @@
 ---
-title: My projects
 listing:
     contents: projects
+    image-lazy-loading: false
     type: grid
+    image-height: "2"
     fields: [image, title, categories, description]
     categories: unnumbered
 ---

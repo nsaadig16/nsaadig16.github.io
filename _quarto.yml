@@ -3,6 +3,7 @@ project:
 
 website:
   favicon: /imgs/favicon.ico
+  search: false
   title: "nsaadig16"
   navbar:
     left:
@@ -10,11 +11,21 @@ website:
         text: About me
       - href: projects.qmd
         text: Projects
+    right:
+      - icon: bi bi-file-earmark-pdf-fill
+        text: Get my CV
+        menu:
+          - text: English
+
+            href: /cvs/CV_en.pdf
+          - text: Castellano
+            href: /cvs/CV_es.pdf
+          - text: Català
+            href: /cvs/CV_ca.pdf
+
 
 format:
   html:
-    theme:
-      - slates
     fontsize: large
     css: styles.css
     toc: true
