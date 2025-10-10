@@ -2,3 +2,11 @@
 .imgs{
     box-shadow: 10px 5px 5px black;
 }
+.navbar-brand {
+  pointer-events: none;
+  cursor: default;
+}
+.navbar-brand:hover {
+  text-decoration: none;
+  color: inherit;
+}

@@ -16,7 +16,6 @@ website:
         text: Get my CV
         menu:
           - text: English
-
             href: /cvs/CV_en.pdf
           - text: Castellano
             href: /cvs/CV_es.pdf
@@ -29,6 +28,11 @@ format:
     fontsize: large
     css: styles.css
     toc: false
+    theme:
+      light: flatly
+      dark: darkly
+    toggle: true
+    respect-user-color-scheme: true
 
 
 
