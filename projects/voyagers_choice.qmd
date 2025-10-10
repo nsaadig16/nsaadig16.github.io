@@ -2,7 +2,7 @@
 title: "Voyager's choice"
 abstract: Website to plan a trip with your friends
 categories: Hackathon project
-image: "/imgs/voyagers_choice.jpg"
+image: "/imgs/voyagers_choice.webp"
 author: 
     - name: Naïm Saadi Gallego
       url: https://linkedin.com/in/nsaadig16
@@ -14,7 +14,7 @@ author:
       url: https://www.github.com/Zpidero
 ---
 
-<img src="/imgs/voyagers_choice.jpg" width=600 align=center class="imgs">
+<img src="/imgs/voyagers_choice.webp" width=600 align=center class="imgs">
 
 ## Description
 

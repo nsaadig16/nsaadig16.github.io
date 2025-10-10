@@ -2,7 +2,7 @@
 title: "Operació: Gravitar"
 abstract: Tower defense game inspired by the theme "Out of orbit"
 categories: Game jam project 
-image: "/imgs/operacio_gravitar.png"
+image: "/imgs/operacio_gravitar.webp"
 author: 
     - name: Naïm Saadi Gallego
       url: https://linkedin.com/in/nsaadig16

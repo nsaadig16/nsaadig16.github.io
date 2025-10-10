@@ -28,7 +28,7 @@ format:
   html:
     fontsize: large
     css: styles.css
-    toc: true
+    toc: false
 
 
 

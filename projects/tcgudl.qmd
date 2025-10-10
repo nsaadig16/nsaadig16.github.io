@@ -2,7 +2,7 @@
 title: Trading Card Game UdL
 abstract: Web app built in Django that replicates a trading card game
 categories: University project 
-image: "/imgs/tcgudl.png"
+image: "/imgs/tcgudl.webp"
 author: 
     - name: Naïm Saadi Gallego
       url: https://linkedin.com/in/nsaadig16
@@ -14,7 +14,7 @@ author:
       url: https://www.linkedin.com/in/augustin-belu-269685306/
 ---
 
-<img src="/imgs/tcgudl2.png" width=600 align=center class="imgs">
+<img src="/imgs/tcgudl2.webp" width=600 align=center class="imgs">
 
 <p></p>
 ## Description

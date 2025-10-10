@@ -1,8 +1,9 @@
 ---
 title: "nsaadig16"
+image-lazy-loading: false
 about:
     template: jolla
-    image: imgs/nsaadig16.jpg
+    image: imgs/nsaadig16.webp
     image-alt: Naïm
     links: 
       - icon: github

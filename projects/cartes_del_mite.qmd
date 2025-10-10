@@ -2,7 +2,7 @@
 title: "Cartes del mite"
 abstract: RPG card game based on Catalan folklore
 categories: Game jam project 
-image: "/imgs/dracSJ.png"
+image: "/imgs/dracSJ.webp"
 author: 
     - name: Naïm Saadi Gallego
       url: https://linkedin.com/in/nsaadig16
@@ -16,7 +16,7 @@ author:
       url: https://www.linkedin.com/in/david-garcia-aybar-053324310/
 ---
 
-<img src="/imgs/cdm.png" width=400 align=center class="imgs">
+<img src="/imgs/cdm.webp" width=400 align=center class="imgs">
 
 ## Description
 

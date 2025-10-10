@@ -2,7 +2,7 @@
 title: Translator UABTheHack
 abstract: Python `pip` library using Google Translator
 categories: Hackathon project
-image: "/imgs/translator.jpg"
+image: "/imgs/translator.webp"
 author: 
     - name: Naïm Saadi Gallego
       url: https://linkedin.com/in/nsaadig16
@@ -12,7 +12,7 @@ author:
       url: https://github.com/Zpidero
 ---
 
-<img src="/imgs/translator.jpg" width=400 align=center class="imgs">
+<img src="/imgs/translator.webp" width=400 align=center class="imgs">
 
 <p></p>
 ## Description

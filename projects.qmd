@@ -3,7 +3,7 @@ listing:
     contents: projects
     image-lazy-loading: false
     type: grid
-    image-height: "2"
+    image-height: "130px"
     fields: [image, title, categories, description]
     categories: unnumbered
 ---
