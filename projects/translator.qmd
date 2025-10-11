@@ -1,6 +1,6 @@
 ---
 title: Translator UABTheHack
-abstract: Python `pip` library using Google Translator
+abstract: Python pip library using Google Translator
 categories: Hackathon project
 image: "/imgs/translator.webp"
 author: 
@@ -17,7 +17,7 @@ author:
 <p></p>
 ## Description
 
-**Translator UABTheHack** is a `pip` library developed in the University of Barcelona's (UAB) first hackathon, *UABTheHack*. It contains a method called 
+**Translator UABTheHack** is a pip library developed in the University of Barcelona's (UAB) first hackathon, *UABTheHack*. It contains a method called 
 `translate_code()` that takes a file and translates it to another language using the Google Translate API.
 
 Check the repo [here](https://github.com/nsaadig16/translator-UAB)! 
@@ -32,7 +32,7 @@ Once the presentation finished, we thought that it was a problem that someone
 couldn't understand the language, so we decided to develop a tool that could help solve the problem. We decided to do it in Python, a language that we hadn't
 really used but that was simple enough to not be a barrier. 
 
-Twenty-four hours later, we had developed a `pip` library that translated code into other languages.
+Twenty-four hours later, we had developed a pip library that translated code into other languages.
 Even though it was slow and not very complex, it helped us win the **Rookies Award**, a prize to the best first-year participants in the event.
 </p>
 
