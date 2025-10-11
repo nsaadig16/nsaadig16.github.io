@@ -49,27 +49,6 @@
     "text": "Technologies used"
   },
   {
-    "objectID": "projects/operacio_gravitar.html#description",
-    "href": "projects/operacio_gravitar.html#description",
-    "title": "Operació: Gravitar",
-    "section": "Description",
-    "text": "Description\nOperació: Gravitar is a game created at the Lleida’s 2024 Lan Party Game Jam. It presents Nil, an astronaut who has been sent on a mission to collect precious mineral from the pletorian moon while trying to avoid the imminent asteroid rain.\nCheck the game here!"
-  },
-  {
-    "objectID": "projects/operacio_gravitar.html#development-process",
-    "href": "projects/operacio_gravitar.html#development-process",
-    "title": "Operació: Gravitar",
-    "section": "Development process",
-    "text": "Development process\n\nThis was my first game jam, where we were given the theme “Out of orbit”. After some hours of brainstorming, we came up with the idea of having the player orbit around the planet.\nWe also wanted to implement some sort of “resource management”, so we decided that the player should collect pieces of mineral and bring them to the factory. Then we implemented the asteroid rain which gave the player the option to throw the mineral upwards against the asteroid to defend the planet from destruction.\nThanks to the team’s work combined and the masterclass given to us by Brián Piancino we were able to develop the game and win the event’s first prize."
-  },
-  {
-    "objectID": "projects/operacio_gravitar.html#technologies-used",
-    "href": "projects/operacio_gravitar.html#technologies-used",
-    "title": "Operació: Gravitar",
-    "section": "Technologies used",
-    "text": "Technologies used"
-  },
-  {
     "objectID": "projects/tcgudl.html#description",
     "href": "projects/tcgudl.html#description",
     "title": "Trading Card Game UdL",
@@ -87,6 +66,27 @@
     "objectID": "projects/tcgudl.html#technologies-used",
     "href": "projects/tcgudl.html#technologies-used",
     "title": "Trading Card Game UdL",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
+    "objectID": "projects/operacio_gravitar.html#description",
+    "href": "projects/operacio_gravitar.html#description",
+    "title": "Operació: Gravitar",
+    "section": "Description",
+    "text": "Description\nOperació: Gravitar is a game created at the Lleida’s 2024 Lan Party Game Jam. It presents Nil, an astronaut who has been sent on a mission to collect precious mineral from the pletorian moon while trying to avoid the imminent asteroid rain.\nCheck the game here!"
+  },
+  {
+    "objectID": "projects/operacio_gravitar.html#development-process",
+    "href": "projects/operacio_gravitar.html#development-process",
+    "title": "Operació: Gravitar",
+    "section": "Development process",
+    "text": "Development process\n\nThis was my first game jam, where we were given the theme “Out of orbit”. After some hours of brainstorming, we came up with the idea of having the player orbit around the planet.\nWe also wanted to implement some sort of “resource management”, so we decided that the player should collect pieces of mineral and bring them to the factory. Then we implemented the asteroid rain which gave the player the option to throw the mineral upwards against the asteroid to defend the planet from destruction.\nThanks to the team’s work combined and the masterclass given to us by Brián Piancino we were able to develop the game and win the event’s first prize."
+  },
+  {
+    "objectID": "projects/operacio_gravitar.html#technologies-used",
+    "href": "projects/operacio_gravitar.html#technologies-used",
+    "title": "Operació: Gravitar",
     "section": "Technologies used",
     "text": "Technologies used"
   },
