@@ -2,10 +2,15 @@ project:
   type: website
 
 website:
+  site-url: https://nsaadig16.github.io
+  repo-url: nsaadig16/nsaadig16.github.io
+  repo-branch: gh-pages
   favicon: /imgs/favicon.ico
   search: false
   title: "nsaadig16"
   navbar:
+    logo: imgs/favicon.ico
+    collapse: true
     left:
       - href: index.qmd
         text: About me

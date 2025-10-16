@@ -3,8 +3,11 @@ listing:
     contents: projects
     image-lazy-loading: false
     type: grid
-    image-height: "130px"
-    fields: [image, title, categories, description]
+    image-height: "100px"
+    fields: [image, title, description, categories]
     categories: unnumbered
+    table-striped: true
+    grid-item-align: center
+    #TODO: Add custom listing template
 ---
 
