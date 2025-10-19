@@ -6,6 +6,8 @@ website:
   search: false
   title: "nsaadig16"
   navbar:
+    logo: /imgs/favicon.ico
+    logo-alt: "Naïm's icon"
     left:
       - href: index.qmd
         text: About me
