@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "projects/tcgudl.html#description",
-    "href": "projects/tcgudl.html#description",
-    "title": "Trading Card Game UdL",
-    "section": "Description",
-    "text": "Description\nTCGUdL is a web application developed in Django that replicates a trading card game style. Created as a project for our “Web Project” class, it contains UdL professors as characters in the cards.\nCheck the repo here!"
-  },
-  {
-    "objectID": "projects/tcgudl.html#development-process",
-    "href": "projects/tcgudl.html#development-process",
-    "title": "Trading Card Game UdL",
-    "section": "Development process",
-    "text": "Development process\n\nOur team, composed mainly of second-year students enrolled in a third-year class, was given the task of developing a web app that met a series of requirements but could follow any theme we wanted.\nWe decided to take this project head-on and replicate the pack-opening and collection aspects of a typical trading card game. Along the way, we learned about Docker, Python’s framework Django, RDFa, and several other aspects of web development—all while enjoying the game aspect of the web."
-  },
-  {
-    "objectID": "projects/tcgudl.html#technologies-used",
-    "href": "projects/tcgudl.html#technologies-used",
-    "title": "Trading Card Game UdL",
-    "section": "Technologies used",
-    "text": "Technologies used"
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "nsaadig16",
+    "section": "",
+    "text": "Cartes del mite\n\n\n\nGame jam project\n\n\n\nRPG card game based on Catalan folklore\n\n\n\n\n\n\n\n\n\n\n\n\nOperació: Gravitar\n\n\n\nGame jam project\n\n\n\nTower defense game inspired by the theme “Out of orbit”\n\n\n\n\n\n\n\n\n\n\n\n\nTrading Card Game UdL\n\n\n\nUniversity project\n\n\n\nWeb app built in Django that replicates a trading card game\n\n\n\n\n\n\n\n\n\n\n\n\nTranslator UABTheHack\n\n\n\nHackathon project\n\n\n\nPython pip library using Google Translator\n\n\n\n\n\n\n\n\n\n\n\n\nVoyager’s choice\n\n\n\nHackathon project\n\n\n\nWebsite to plan a trip with your friends\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/cartes_del_mite.html#description",
@@ -63,37 +49,23 @@
     "text": "Technologies used"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "nsaadig16",
-    "section": "",
-    "text": "Hi! My name is Naïm Saadi Gallego.\nI’m an undergrad Computer Science student at University of Lleida (UdL). I’m passionate about technology and continuous learning. Over the past two years, I actively participated in hackathons and gamejams, which have sharpened my problem-solving skills, strengthened my teamwork abilities and improved my knowledge as a future engineer.\nI’m eager to keep growing as a developer by taking on new challenges and applying my skills to real-world projects. You can reach me at nsaadig16@gmail.com"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "nsaadig16",
-    "section": "",
-    "text": "Cartes del mite\n\n\n\nGame jam project\n\n\n\nRPG card game based on Catalan folklore\n\n\n\n\n\n\n\n\n\n\n\n\nOperació: Gravitar\n\n\n\nGame jam project\n\n\n\nTower defense game inspired by the theme “Out of orbit”\n\n\n\n\n\n\n\n\n\n\n\n\nTrading Card Game UdL\n\n\n\nUniversity project\n\n\n\nWeb app built in Django that replicates a trading card game\n\n\n\n\n\n\n\n\n\n\n\n\nTranslator UABTheHack\n\n\n\nHackathon project\n\n\n\nPython pip library using Google Translator\n\n\n\n\n\n\n\n\n\n\n\n\nVoyager’s choice\n\n\n\nHackathon project\n\n\n\nWebsite to plan a trip with your friends\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/voyagers_choice.html#description",
-    "href": "projects/voyagers_choice.html#description",
-    "title": "Voyager’s choice",
+    "objectID": "projects/tcgudl.html#description",
+    "href": "projects/tcgudl.html#description",
+    "title": "Trading Card Game UdL",
     "section": "Description",
-    "text": "Description\nVoyager’s choice is a website used to plan a trip with your friends. You and your trip companions will join a room, where a slideshow of travel destinations will show up. Everyone can vote on it and take part in the final decision.\nCheck the repo here!"
+    "text": "Description\nTCGUdL is a web application developed in Django that replicates a trading card game style. Created as a project for our “Web Project” class, it contains UdL professors as characters in the cards.\nCheck the repo here!"
   },
   {
-    "objectID": "projects/voyagers_choice.html#development-process",
-    "href": "projects/voyagers_choice.html#development-process",
-    "title": "Voyager’s choice",
+    "objectID": "projects/tcgudl.html#development-process",
+    "href": "projects/tcgudl.html#development-process",
+    "title": "Trading Card Game UdL",
     "section": "Development process",
-    "text": "Development process\n\nAt HackUPC 2025, we developed a website for the SkyScanner challenge called “Voyager’s Choice.” I worked on the backend alongside Lluc Vivet, using Gemini’s API to process the data and SQLite as our database.\nThe structure was quite simple: the frontend collected a form with the user’s trip preferences, and the backend processed it with Gemini and the flight database provided by SkyScanner. It then returned a pseudo-presentation that updated dynamically with each vote.\nThis project was both a way to explore new tools and an opportunity to overcome personal challenges, as we learned to work with FastAPI and noSQL databases."
+    "text": "Development process\n\nOur team, composed mainly of second-year students enrolled in a third-year class, was given the task of developing a web app that met a series of requirements but could follow any theme we wanted.\nWe decided to take this project head-on and replicate the pack-opening and collection aspects of a typical trading card game. Along the way, we learned about Docker, Python’s framework Django, RDFa, and several other aspects of web development—all while enjoying the game aspect of the web."
   },
   {
-    "objectID": "projects/voyagers_choice.html#technologies-used",
-    "href": "projects/voyagers_choice.html#technologies-used",
-    "title": "Voyager’s choice",
+    "objectID": "projects/tcgudl.html#technologies-used",
+    "href": "projects/tcgudl.html#technologies-used",
+    "title": "Trading Card Game UdL",
     "section": "Technologies used",
     "text": "Technologies used"
   },
@@ -117,5 +89,33 @@
     "title": "Operació: Gravitar",
     "section": "Technologies used",
     "text": "Technologies used"
+  },
+  {
+    "objectID": "projects/voyagers_choice.html#description",
+    "href": "projects/voyagers_choice.html#description",
+    "title": "Voyager’s choice",
+    "section": "Description",
+    "text": "Description\nVoyager’s choice is a website used to plan a trip with your friends. You and your trip companions will join a room, where a slideshow of travel destinations will show up. Everyone can vote on it and take part in the final decision.\nCheck the repo here!"
+  },
+  {
+    "objectID": "projects/voyagers_choice.html#development-process",
+    "href": "projects/voyagers_choice.html#development-process",
+    "title": "Voyager’s choice",
+    "section": "Development process",
+    "text": "Development process\n\nAt HackUPC 2025, we developed a website for the SkyScanner challenge called “Voyager’s Choice.” I worked on the backend alongside Lluc Vivet, using Gemini’s API to process the data and SQLite as our database.\nThe structure was quite simple: the frontend collected a form with the user’s trip preferences, and the backend processed it with Gemini and the flight database provided by SkyScanner. It then returned a pseudo-presentation that updated dynamically with each vote.\nThis project was both a way to explore new tools and an opportunity to overcome personal challenges, as we learned to work with FastAPI and noSQL databases."
+  },
+  {
+    "objectID": "projects/voyagers_choice.html#technologies-used",
+    "href": "projects/voyagers_choice.html#technologies-used",
+    "title": "Voyager’s choice",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nsaadig16",
+    "section": "",
+    "text": "Hi! My name is Naïm Saadi Gallego.\nI’m an undergrad Computer Science student at University of Lleida (UdL). I’m passionate about technology and continuous learning. Over the past two years, I actively participated in hackathons and gamejams, which have sharpened my problem-solving skills, strengthened my teamwork abilities and improved my knowledge as a future engineer.\nI’m eager to keep growing as a developer by taking on new challenges and applying my skills to real-world projects. You can reach me at nsaadig16@gmail.com"
   }
 ]
