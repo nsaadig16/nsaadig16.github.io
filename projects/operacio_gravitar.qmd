@@ -11,7 +11,7 @@ author:
     - name: Jon Gomez Palomar
       url: https://www.linkedin.com/in/jon-gomez-palomar/
     - name: Lluc Vivet Torras
-      url: https://www.github.com/Zpidero
+      url: https://www.linkedin.com/in/lluc-vivet-torras-0ab15938b/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vHuw2xcWoxQ?si=jBirOSqM-omaxzMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

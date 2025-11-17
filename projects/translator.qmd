@@ -9,7 +9,7 @@ author:
     - name: Nataly Jaya Salazar
       url: https://www.linkedin.com/in/natjs/
     - name: Lluc Vivet Torras
-      url: https://github.com/Zpidero
+      url: https://www.linkedin.com/in/lluc-vivet-torras-0ab15938b/
 ---
 
 <img src="/imgs/translator.webp" width=400 align=center class="imgs">

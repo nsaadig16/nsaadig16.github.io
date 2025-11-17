@@ -11,7 +11,7 @@ author:
     - name: Andreu Puig-gròs Munté
       url: https://github.com/Apm-96
     - name: Lluc Vivet Torras
-      url: https://www.github.com/Zpidero
+      url: https://www.linkedin.com/in/lluc-vivet-torras-0ab15938b/
     - name: David Garcia Aybar
       url: https://www.linkedin.com/in/david-garcia-aybar-053324310/
 ---

@@ -11,7 +11,7 @@ author:
     - name: Júlia Calvo Besó
       url: https://www.github.com/juliz1
     - name: Lluc Vivet Torras
-      url: https://www.github.com/Zpidero
+      url: https://www.linkedin.com/in/lluc-vivet-torras-0ab15938b/
 ---
 
 <img src="/imgs/voyagers_choice.webp" width=600 align=center class="imgs">
