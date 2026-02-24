@@ -1,0 +1,35 @@
+---
+title: The HackEPS website
+abstract: The website for the HackEPS, the hackathon at UdL
+categories: University project
+image: "/imgs/lleidahack_logo.png"
+author: 
+    - name: The LleidaHack association
+      url: https://www.linkedin.com/company/lleidahack
+---
+
+<img src="/imgs/lleidahack_title.png" width=600 align=center class="imgs">
+
+<p></p>
+
+# Description
+
+The HackEPS website contains the information, registration procedure and everything related to Lleida's first hackathon, the HackEPS.
+It was made by the LleidaHack developers team.
+
+## Development process
+
+When I started in LleidaHack's developer team, I worked on the frontend, refactoring and creating some of the components. Then, I transitioned to the backend where I created some models and worked on the API.
+
+It was also my first colaborative project, where I learnt production-based workflows and tools like Git and GitHub.
+
+## Technologies used
+
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg){width=60}
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg){width=60}
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg){width=60}
+![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg){width=60}
+![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg){width=60}
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg){width=60}
+![npm](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg){width=60}
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg){width=60}

@@ -1,0 +1,35 @@
+---
+title: Inazuma Eleven API
+abstract: An Inazuma Eleven API based on a Kaggle dataset
+categories: Personal project
+image: "/imgs/inazuma_logo.jpg"
+author: 
+    - name: Naïm Saadi Gallego
+      url: https://linkedin.com/in/nsaadig16
+---
+
+<img src="/imgs/inazuma_img.svg" width=600 align=center class="imgs">
+
+<p></p>
+
+## Description
+
+This *Inazuma Eleven* API serves endpoints to retrieve information about all the characters in the first game.
+
+It takes the information from [this Kaggle dataset](https://www.kaggle.com/datasets/daviddelaiglesia/inazuma-eleven-1-dataset), and uses `pandas` to access the information. The API is currently deployed on Render [here](https://inazumaelevenapi.onrender.com/docs). 
+
+Check the repo [here](https://github.com/nsaadig16/InazumaElevenAPI)! 
+ 
+## Development process
+
+<p align="justify">
+This project started as a personal challenge when some classmates realized there weren't any decent Inazuma Eleven API where they could get the data for a class project, just plain datasets. I decided to make the API using **FastAPI**, use `pandas` for the data management and deployed it on Render for everyone to use.
+</p>
+
+## Technologies used
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg){width=60}
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg){width=60}
+![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg){width=60}
+![pandas](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg){width=60}
+![json](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg){width=60}

@@ -1,0 +1,38 @@
+---
+title: Cypher - A Valorant Discord Bot
+abstract: A Discord bot developed in Python that retrieves information on Valorant Matches.
+categories: Personal project
+image: "/imgs/cypher_logo.png"
+author: 
+    - name: Naïm Saadi Gallego
+      url: https://linkedin.com/in/nsaadig16
+---
+
+<img src="/imgs/cypher_img.png" width=600 align=center class="imgs">
+
+<p></p>
+
+## Description
+
+**Cypher** is a Discord bot that retrieves information about the multiplayer game Valorant.
+
+Its basic commands are retrieving information about a user and displaying someone's last match leaderboard.
+
+The name and the logo are based on Valorant's *agent* Cypher, a playable character known for retrieving information about enemies.
+
+Check the repo [here](https://github.com/nsaadig16/Cypher)! 
+ 
+## Development process
+
+<p align="justify">
+This project started not so long after I started playing Valorant. I wanted to save the leaderboards for matches on a Discord Server without having to upload a screenshot everytime.
+I learnt how to use the [`discord.py`](https://github.com/Rapptz/discord.py) module and I used [henrikdev's Valorant API](https://github.com/Henrik-3/unofficial-valorant-api) to retrieve the information. I also *dockerized* the bot so it was easier and fast to build.
+
+Credits to [David Garcia](https://www.linkedin.com/in/david-garcia-aybar-053324310/) for the edited version of the logo.
+</p>
+
+## Technologies used
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg){width=60}
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg){width=60}
+![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.sv){width=60}
