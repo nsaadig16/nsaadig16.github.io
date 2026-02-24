@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "nsaadig16",
     "section": "",
-    "text": "Cartes del mite\n\n\n\nGame jam project\n\n\n\nRPG card game based on Catalan folklore\n\n\n\n\n\n\n\n\n\n\n\n\nOperació: Gravitar\n\n\n\nGame jam project\n\n\n\nTower defense game inspired by the theme “Out of orbit”\n\n\n\n\n\n\n\n\n\n\n\n\nTrading Card Game UdL\n\n\n\nUniversity project\n\n\n\nWeb app built in Django that replicates a trading card game\n\n\n\n\n\n\n\n\n\n\n\n\nTranslator UABTheHack\n\n\n\nHackathon project\n\n\n\nPython pip library using Google Translator\n\n\n\n\n\n\n\n\n\n\n\n\nVoyager’s choice\n\n\n\nHackathon project\n\n\n\nWebsite to plan a trip with your friends\n\n\n\n\n\nNo matching items"
+    "text": "Cartes del mite\n\n\n\nGame jam project\n\n\n\nRPG card game based on Catalan folklore\n\n\n\n\n\n\n\n\n\n\n\n\nCypher - A Valorant Discord Bot\n\n\n\nPersonal project\n\n\n\nA Discord bot developed in Python that retrieves information on Valorant Matches.\n\n\n\n\n\n\n\n\n\n\n\n\nInazuma Eleven API\n\n\n\nPersonal project\n\n\n\nAn Inazuma Eleven API based on a Kaggle dataset\n\n\n\n\n\n\n\n\n\n\n\n\nOperació: Gravitar\n\n\n\nGame jam project\n\n\n\nTower defense game inspired by the theme “Out of orbit”\n\n\n\n\n\n\n\n\n\n\n\n\nThe HackEPS website\n\n\n\nUniversity project\n\n\n\nThe website for the HackEPS, the hackathon at UdL\n\n\n\n\n\n\n\n\n\n\n\n\nTrading Card Game UdL\n\n\n\nUniversity project\n\n\n\nWeb app built in Django that replicates a trading card game\n\n\n\n\n\n\n\n\n\n\n\n\nTranslator UABTheHack\n\n\n\nHackathon project\n\n\n\nPython pip library using Google Translator\n\n\n\n\n\n\n\n\n\n\n\n\nVoyager’s choice\n\n\n\nHackathon project\n\n\n\nWebsite to plan a trip with your friends\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/cartes_del_mite.html#description",
@@ -28,44 +28,23 @@
     "text": "Technologies used"
   },
   {
-    "objectID": "projects/translator.html#description",
-    "href": "projects/translator.html#description",
-    "title": "Translator UABTheHack",
+    "objectID": "projects/voyagers_choice.html#description",
+    "href": "projects/voyagers_choice.html#description",
+    "title": "Voyager’s choice",
     "section": "Description",
-    "text": "Description\nTranslator UABTheHack is a pip library developed in the University of Barcelona’s (UAB) first hackathon, UABTheHack. It contains a method called translate_code() that takes a file and translates it to another language using the Google Translate API.\nCheck the repo here!"
+    "text": "Description\nVoyager’s choice is a website used to plan a trip with your friends. You and your trip companions will join a room, where a slideshow of travel destinations will show up. Everyone can vote on it and take part in the final decision.\nCheck the repo here!"
   },
   {
-    "objectID": "projects/translator.html#development-process",
-    "href": "projects/translator.html#development-process",
-    "title": "Translator UABTheHack",
+    "objectID": "projects/voyagers_choice.html#development-process",
+    "href": "projects/voyagers_choice.html#development-process",
+    "title": "Voyager’s choice",
     "section": "Development process",
-    "text": "Development process\n\nThis was the first hackathon I attended, knowing just a few things about basic programming. During the event’s presentation, a foreign participant asked the organizers if they could switch languages for their ease of understanding.\nOnce the presentation finished, we thought that it was a problem that someone couldn’t understand the language, so we decided to develop a tool that could help solve the problem. We decided to do it in Python, a language that we hadn’t really used but that was simple enough to not be a barrier.\nTwenty-four hours later, we had developed a pip library that translated code into other languages. Even though it was slow and not very complex, it helped us win the Rookies Award, a prize to the best first-year participants in the event."
+    "text": "Development process\n\nAt HackUPC 2025, we developed a website for the SkyScanner challenge called “Voyager’s Choice.” I worked on the backend alongside Lluc Vivet, using Gemini’s API to process the data and SQLite as our database.\nThe structure was quite simple: the frontend collected a form with the user’s trip preferences, and the backend processed it with Gemini and the flight database provided by SkyScanner. It then returned a pseudo-presentation that updated dynamically with each vote.\nThis project was both a way to explore new tools and an opportunity to overcome personal challenges, as we learned to work with FastAPI and noSQL databases."
   },
   {
-    "objectID": "projects/translator.html#technologies-used",
-    "href": "projects/translator.html#technologies-used",
-    "title": "Translator UABTheHack",
-    "section": "Technologies used",
-    "text": "Technologies used"
-  },
-  {
-    "objectID": "projects/tcgudl.html#description",
-    "href": "projects/tcgudl.html#description",
-    "title": "Trading Card Game UdL",
-    "section": "Description",
-    "text": "Description\nTCGUdL is a web application developed in Django that replicates a trading card game style. Created as a project for our “Web Project” class, it contains UdL professors as characters in the cards.\nCheck the repo here!"
-  },
-  {
-    "objectID": "projects/tcgudl.html#development-process",
-    "href": "projects/tcgudl.html#development-process",
-    "title": "Trading Card Game UdL",
-    "section": "Development process",
-    "text": "Development process\n\nOur team, composed mainly of second-year students enrolled in a third-year class, was given the task of developing a web app that met a series of requirements but could follow any theme we wanted.\nWe decided to take this project head-on and replicate the pack-opening and collection aspects of a typical trading card game. Along the way, we learned about Docker, Python’s framework Django, RDFa, and several other aspects of web development—all while enjoying the game aspect of the web."
-  },
-  {
-    "objectID": "projects/tcgudl.html#technologies-used",
-    "href": "projects/tcgudl.html#technologies-used",
-    "title": "Trading Card Game UdL",
+    "objectID": "projects/voyagers_choice.html#technologies-used",
+    "href": "projects/voyagers_choice.html#technologies-used",
+    "title": "Voyager’s choice",
     "section": "Technologies used",
     "text": "Technologies used"
   },
@@ -91,23 +70,100 @@
     "text": "Technologies used"
   },
   {
-    "objectID": "projects/voyagers_choice.html#description",
-    "href": "projects/voyagers_choice.html#description",
-    "title": "Voyager’s choice",
+    "objectID": "projects/tcgudl.html#description",
+    "href": "projects/tcgudl.html#description",
+    "title": "Trading Card Game UdL",
     "section": "Description",
-    "text": "Description\nVoyager’s choice is a website used to plan a trip with your friends. You and your trip companions will join a room, where a slideshow of travel destinations will show up. Everyone can vote on it and take part in the final decision.\nCheck the repo here!"
+    "text": "Description\nTCGUdL is a web application developed in Django that replicates a trading card game style. Created as a project for our “Web Project” class, it contains UdL professors as characters in the cards.\nCheck the repo here!"
   },
   {
-    "objectID": "projects/voyagers_choice.html#development-process",
-    "href": "projects/voyagers_choice.html#development-process",
-    "title": "Voyager’s choice",
+    "objectID": "projects/tcgudl.html#development-process",
+    "href": "projects/tcgudl.html#development-process",
+    "title": "Trading Card Game UdL",
     "section": "Development process",
-    "text": "Development process\n\nAt HackUPC 2025, we developed a website for the SkyScanner challenge called “Voyager’s Choice.” I worked on the backend alongside Lluc Vivet, using Gemini’s API to process the data and SQLite as our database.\nThe structure was quite simple: the frontend collected a form with the user’s trip preferences, and the backend processed it with Gemini and the flight database provided by SkyScanner. It then returned a pseudo-presentation that updated dynamically with each vote.\nThis project was both a way to explore new tools and an opportunity to overcome personal challenges, as we learned to work with FastAPI and noSQL databases."
+    "text": "Development process\n\nOur team, composed mainly of second-year students enrolled in a third-year class, was given the task of developing a web app that met a series of requirements but could follow any theme we wanted.\nWe decided to take this project head-on and replicate the pack-opening and collection aspects of a typical trading card game. Along the way, we learned about Docker, Python’s framework Django, RDFa, and several other aspects of web development—all while enjoying the game aspect of the web."
   },
   {
-    "objectID": "projects/voyagers_choice.html#technologies-used",
-    "href": "projects/voyagers_choice.html#technologies-used",
-    "title": "Voyager’s choice",
+    "objectID": "projects/tcgudl.html#technologies-used",
+    "href": "projects/tcgudl.html#technologies-used",
+    "title": "Trading Card Game UdL",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
+    "objectID": "projects/inazuma_api.html#description",
+    "href": "projects/inazuma_api.html#description",
+    "title": "Inazuma Eleven API",
+    "section": "Description",
+    "text": "Description\nThis Inazuma Eleven API serves endpoints to retrieve information about all the characters in the first game.\nIt takes the information from this Kaggle dataset, and uses pandas to access the information. The API is currently deployed on Render here.\nCheck the repo here!"
+  },
+  {
+    "objectID": "projects/inazuma_api.html#development-process",
+    "href": "projects/inazuma_api.html#development-process",
+    "title": "Inazuma Eleven API",
+    "section": "Development process",
+    "text": "Development process\n\nThis project started as a personal challenge when some classmates realized there weren’t any decent Inazuma Eleven API where they could get the data for a class project, just plain datasets. I decided to make the API using FastAPI, use pandas for the data management and deployed it on Render for everyone to use."
+  },
+  {
+    "objectID": "projects/inazuma_api.html#technologies-used",
+    "href": "projects/inazuma_api.html#technologies-used",
+    "title": "Inazuma Eleven API",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
+    "objectID": "projects/cypher_bot.html#description",
+    "href": "projects/cypher_bot.html#description",
+    "title": "Cypher - A Valorant Discord Bot",
+    "section": "Description",
+    "text": "Description\nCypher is a Discord bot that retrieves information about the multiplayer game Valorant.\nIts basic commands are retrieving information about a user and displaying someone’s last match leaderboard.\nThe name and the logo are based on Valorant’s agent Cypher, a playable character known for retrieving information about enemies.\nCheck the repo here!"
+  },
+  {
+    "objectID": "projects/cypher_bot.html#development-process",
+    "href": "projects/cypher_bot.html#development-process",
+    "title": "Cypher - A Valorant Discord Bot",
+    "section": "Development process",
+    "text": "Development process\n\nThis project started not so long after I started playing Valorant. I wanted to save the leaderboards for matches on a Discord Server without having to upload a screenshot everytime. I learnt how to use the discord.py module and I used henrikdev’s Valorant API to retrieve the information. I also dockerized the bot so it was easier and fast to build.\nCredits to David Garcia for the edited version of the logo."
+  },
+  {
+    "objectID": "projects/cypher_bot.html#technologies-used",
+    "href": "projects/cypher_bot.html#technologies-used",
+    "title": "Cypher - A Valorant Discord Bot",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
+    "objectID": "projects/translator.html#description",
+    "href": "projects/translator.html#description",
+    "title": "Translator UABTheHack",
+    "section": "Description",
+    "text": "Description\nTranslator UABTheHack is a pip library developed in the University of Barcelona’s (UAB) first hackathon, UABTheHack. It contains a method called translate_code() that takes a file and translates it to another language using the Google Translate API.\nCheck the repo here!"
+  },
+  {
+    "objectID": "projects/translator.html#development-process",
+    "href": "projects/translator.html#development-process",
+    "title": "Translator UABTheHack",
+    "section": "Development process",
+    "text": "Development process\n\nThis was the first hackathon I attended, knowing just a few things about basic programming. During the event’s presentation, a foreign participant asked the organizers if they could switch languages for their ease of understanding.\nOnce the presentation finished, we thought that it was a problem that someone couldn’t understand the language, so we decided to develop a tool that could help solve the problem. We decided to do it in Python, a language that we hadn’t really used but that was simple enough to not be a barrier.\nTwenty-four hours later, we had developed a pip library that translated code into other languages. Even though it was slow and not very complex, it helped us win the Rookies Award, a prize to the best first-year participants in the event."
+  },
+  {
+    "objectID": "projects/translator.html#technologies-used",
+    "href": "projects/translator.html#technologies-used",
+    "title": "Translator UABTheHack",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
+    "objectID": "projects/hackeps_web.html#development-process",
+    "href": "projects/hackeps_web.html#development-process",
+    "title": "The HackEPS website",
+    "section": "Development process",
+    "text": "Development process\nWhen I started in LleidaHack’s developer team, I worked on the frontend, refactoring and creating some of the components. Then, I transitioned to the backend where I created some models and worked on the API.\nIt was also my first colaborative project, where I learnt production-based workflows and tools like Git and GitHub."
+  },
+  {
+    "objectID": "projects/hackeps_web.html#technologies-used",
+    "href": "projects/hackeps_web.html#technologies-used",
+    "title": "The HackEPS website",
     "section": "Technologies used",
     "text": "Technologies used"
   },

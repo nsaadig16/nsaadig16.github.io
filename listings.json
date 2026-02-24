@@ -3,7 +3,10 @@
     "listing": "/projects.html",
     "items": [
       "/projects/cartes_del_mite.html",
+      "/projects/cypher_bot.html",
+      "/projects/inazuma_api.html",
       "/projects/operacio_gravitar.html",
+      "/projects/hackeps_web.html",
       "/projects/tcgudl.html",
       "/projects/translator.html",
       "/projects/voyagers_choice.html"
