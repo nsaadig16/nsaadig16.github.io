@@ -8,7 +8,7 @@
 
 <meta name="author" content="Naïm Saadi Gallego">
 
-<title>Cypher - A Valorant Discord Bot – nsaadig16</title>
+<title>Dockerfiler – nsaadig16</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -304,7 +304,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Cypher - A Valorant Discord Bot</h1>
+<h1 class="title">Dockerfiler</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Personal project</div>
   </div>
@@ -328,7 +328,7 @@ ul.task-list li input[type="checkbox"] {
 <div>
   <div class="abstract">
     <div class="block-title">Abstract</div>
-    A Discord bot developed in Python that retrieves information on Valorant Matches.
+    A Python package that generates Dockerfiles given some prompts
   </div>
 </div>
 
@@ -336,26 +336,26 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="../imgs/cypher_img.png" width="600" align="center" class="imgs"></p>
+<p><img src="../imgs/dockerfiler.png" width="300" align="center" class="imgs"></p>
 <p>
 </p>
 <section id="description" class="level2">
 <h2 class="anchored" data-anchor-id="description">Description</h2>
-<p><strong>Cypher</strong> is a Discord bot that retrieves information about the multiplayer game Valorant.</p>
-<p>Its basic commands are retrieving information about a user and displaying someone’s last match leaderboard.</p>
-<p>The name and the logo are based on Valorant’s <em>agent</em> Cypher, a playable character known for retrieving information about foes.</p>
-<p>Check the repo <a href="https://github.com/nsaadig16/Cypher">here</a>!</p>
+<p><strong>Dockerfiler</strong> is a Python package that creates Dockerfiles based on templates and parameters entered by the user.</p>
+<p>It uses Jinja2 for the templates and InquirerPy to retrieve the specific parameters.</p>
+<p>Check the repo <a href="https://github.com/nsaadig16/dockerfiler">here</a>!</p>
+<p>The package is published to <a href="https://pypi.org/project/dockerfiler/">PyPi</a> and can be used by running <code>uvx dockerfiler</code>.</p>
 </section>
 <section id="development-process" class="level2">
 <h2 class="anchored" data-anchor-id="development-process">Development process</h2>
 <p align="justify">
-</p><p>This project started not so long after I started playing Valorant. I wanted to save the leaderboards for matches on a Discord Server without having to upload a screenshot everytime. I learnt how to use the <a href="https://github.com/Rapptz/discord.py"><code>discord.py</code></a> module and I used <a href="https://github.com/Henrik-3/unofficial-valorant-api">henrikdev’s Valorant API</a> to retrieve the information. I also <em>dockerized</em> the bot so it was easier and fast to build.</p>
-Credits to <a href="https://www.linkedin.com/in/david-garcia-aybar-053324310/">David Garcia</a> for the edited version of the logo.
+</p><p>I was tired of making the same Dockerfile again and again, so I decided to develop a tool that could automate the procedure. I started looking into <em>Jinja2</em> for the creation of templates, and decided to publish the package in PyPi so that me and everyone who needed it could use it in a very easy way.</p>
+It relies heavily on the <em>extension</em> of previously created templates, so that the addition of new ones is fast and simple.
 <p></p>
 </section>
 <section id="technologies-used" class="level2">
 <h2 class="anchored" data-anchor-id="technologies-used">Technologies used</h2>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" class="img-fluid" width="60" alt="Python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" class="img-fluid" width="60" alt="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.sv" class="img-fluid" width="60" alt="SQLite"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" class="img-fluid" width="60" alt="Python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" class="img-fluid" width="60" alt="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original-wordmark.svg" class="img-fluid" width="60" alt="PyPi"></p>
 
 
 </section>

@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "nsaadig16",
     "section": "",
-    "text": "Cartes del mite\n\n\n\nGame jam project\n\n\n\nRPG card game based on Catalan folklore\n\n\n\n\n\n\n\n\n\n\n\n\nCypher - A Valorant Discord Bot\n\n\n\nPersonal project\n\n\n\nA Discord bot developed in Python that retrieves information on Valorant Matches.\n\n\n\n\n\n\n\n\n\n\n\n\nInazuma Eleven API\n\n\n\nPersonal project\n\n\n\nAn Inazuma Eleven API based on a Kaggle dataset\n\n\n\n\n\n\n\n\n\n\n\n\nOperació: Gravitar\n\n\n\nGame jam project\n\n\n\nTower defense game inspired by the theme “Out of orbit”\n\n\n\n\n\n\n\n\n\n\n\n\nThe HackEPS website\n\n\n\nUniversity project\n\n\n\nThe website for the HackEPS, the hackathon at UdL\n\n\n\n\n\n\n\n\n\n\n\n\nTrading Card Game UdL\n\n\n\nUniversity project\n\n\n\nWeb app built in Django that replicates a trading card game\n\n\n\n\n\n\n\n\n\n\n\n\nTranslator UABTheHack\n\n\n\nHackathon project\n\n\n\nPython pip library using Google Translator\n\n\n\n\n\n\n\n\n\n\n\n\nVoyager’s choice\n\n\n\nHackathon project\n\n\n\nWebsite to plan a trip with your friends\n\n\n\n\n\nNo matching items"
+    "text": "Cartes del mite\n\n\n\nGame jam project\n\n\n\nRPG card game based on Catalan folklore\n\n\n\n\n\n\n\n\n\n\n\n\nCypher - A Valorant Discord Bot\n\n\n\nPersonal project\n\n\n\nA Discord bot developed in Python that retrieves information on Valorant Matches.\n\n\n\n\n\n\n\n\n\n\n\n\nDockerfiler\n\n\n\nPersonal project\n\n\n\nA Python package that generates Dockerfiles given some prompts\n\n\n\n\n\n\n\n\n\n\n\n\nInazuma Eleven API\n\n\n\nPersonal project\n\n\n\nAn Inazuma Eleven API based on a Kaggle dataset\n\n\n\n\n\n\n\n\n\n\n\n\nOperació: Gravitar\n\n\n\nGame jam project\n\n\n\nTower defense game inspired by the theme “Out of orbit”\n\n\n\n\n\n\n\n\n\n\n\n\nThe HackEPS website\n\n\n\nUniversity project\n\n\n\nThe website for the HackEPS, the hackathon at UdL\n\n\n\n\n\n\n\n\n\n\n\n\nTrading Card Game UdL\n\n\n\nUniversity project\n\n\n\nWeb app built in Django that replicates a trading card game\n\n\n\n\n\n\n\n\n\n\n\n\nTranslator UABTheHack\n\n\n\nHackathon project\n\n\n\nPython pip library using Google Translator\n\n\n\n\n\n\n\n\n\n\n\n\nVoyager’s choice\n\n\n\nHackathon project\n\n\n\nWebsite to plan a trip with your friends\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/hackeps_web.html#development-process",
@@ -63,6 +63,34 @@
     "text": "Technologies used"
   },
   {
+    "objectID": "projects/cypher_bot.html#description",
+    "href": "projects/cypher_bot.html#description",
+    "title": "Cypher - A Valorant Discord Bot",
+    "section": "Description",
+    "text": "Description\nCypher is a Discord bot that retrieves information about the multiplayer game Valorant.\nIts basic commands are retrieving information about a user and displaying someone’s last match leaderboard.\nThe name and the logo are based on Valorant’s agent Cypher, a playable character known for retrieving information about foes.\nCheck the repo here!"
+  },
+  {
+    "objectID": "projects/cypher_bot.html#development-process",
+    "href": "projects/cypher_bot.html#development-process",
+    "title": "Cypher - A Valorant Discord Bot",
+    "section": "Development process",
+    "text": "Development process\n\nThis project started not so long after I started playing Valorant. I wanted to save the leaderboards for matches on a Discord Server without having to upload a screenshot everytime. I learnt how to use the discord.py module and I used henrikdev’s Valorant API to retrieve the information. I also dockerized the bot so it was easier and fast to build.\nCredits to David Garcia for the edited version of the logo."
+  },
+  {
+    "objectID": "projects/cypher_bot.html#technologies-used",
+    "href": "projects/cypher_bot.html#technologies-used",
+    "title": "Cypher - A Valorant Discord Bot",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nsaadig16",
+    "section": "",
+    "text": "Hi! My name is Naïm Saadi Gallego.\nI’m an undergrad Computer Science student at University of Lleida (UdL). I’m passionate about technology and continuous learning. Over the past two years, I actively participated in hackathons and gamejams, which have sharpened my problem-solving skills, strengthened my teamwork abilities and improved my knowledge as a future engineer.\nI’m eager to keep growing as a developer by taking on new challenges and applying my skills to real-world projects. You can reach me at nsaadig16@gmail.com"
+  },
+  {
     "objectID": "projects/operacio_gravitar.html#description",
     "href": "projects/operacio_gravitar.html#description",
     "title": "Operació: Gravitar",
@@ -84,30 +112,23 @@
     "text": "Technologies used"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "nsaadig16",
-    "section": "",
-    "text": "Hi! My name is Naïm Saadi Gallego.\nI’m an undergrad Computer Science student at University of Lleida (UdL). I’m passionate about technology and continuous learning. Over the past two years, I actively participated in hackathons and gamejams, which have sharpened my problem-solving skills, strengthened my teamwork abilities and improved my knowledge as a future engineer.\nI’m eager to keep growing as a developer by taking on new challenges and applying my skills to real-world projects. You can reach me at nsaadig16@gmail.com"
-  },
-  {
-    "objectID": "projects/cypher_bot.html#description",
-    "href": "projects/cypher_bot.html#description",
-    "title": "Cypher - A Valorant Discord Bot",
+    "objectID": "projects/dockerfiler.html#description",
+    "href": "projects/dockerfiler.html#description",
+    "title": "Dockerfiler",
     "section": "Description",
-    "text": "Description\nCypher is a Discord bot that retrieves information about the multiplayer game Valorant.\nIts basic commands are retrieving information about a user and displaying someone’s last match leaderboard.\nThe name and the logo are based on Valorant’s agent Cypher, a playable character known for retrieving information about enemies.\nCheck the repo here!"
+    "text": "Description\nDockerfiler is a Python package that creates Dockerfiles based on templates and parameters entered by the user.\nIt uses Jinja2 for the templates and InquirerPy to retrieve the specific parameters.\nCheck the repo here!\nThe package is published to PyPi and can be used by running uvx dockerfiler."
   },
   {
-    "objectID": "projects/cypher_bot.html#development-process",
-    "href": "projects/cypher_bot.html#development-process",
-    "title": "Cypher - A Valorant Discord Bot",
+    "objectID": "projects/dockerfiler.html#development-process",
+    "href": "projects/dockerfiler.html#development-process",
+    "title": "Dockerfiler",
     "section": "Development process",
-    "text": "Development process\n\nThis project started not so long after I started playing Valorant. I wanted to save the leaderboards for matches on a Discord Server without having to upload a screenshot everytime. I learnt how to use the discord.py module and I used henrikdev’s Valorant API to retrieve the information. I also dockerized the bot so it was easier and fast to build.\nCredits to David Garcia for the edited version of the logo."
+    "text": "Development process\n\nI was tired of making the same Dockerfile again and again, so I decided to develop a tool that could automate the procedure. I started looking into Jinja2 for the creation of templates, and decided to publish the package in PyPi so that me and everyone who needed it could use it in a very easy way.\nIt relies heavily on the extension of previously created templates, so that the addition of new ones is fast and simple."
   },
   {
-    "objectID": "projects/cypher_bot.html#technologies-used",
-    "href": "projects/cypher_bot.html#technologies-used",
-    "title": "Cypher - A Valorant Discord Bot",
+    "objectID": "projects/dockerfiler.html#technologies-used",
+    "href": "projects/dockerfiler.html#technologies-used",
+    "title": "Dockerfiler",
     "section": "Technologies used",
     "text": "Technologies used"
   },
