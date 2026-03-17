@@ -5,6 +5,6 @@ listing:
     type: grid
     image-height: "130px"
     fields: [image, title, categories, description]
-    categories: unnumbered
+    categories: numbered
 ---
 

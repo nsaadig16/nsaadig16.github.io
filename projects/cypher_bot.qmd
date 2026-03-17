@@ -18,7 +18,7 @@ author:
 
 Its basic commands are retrieving information about a user and displaying someone's last match leaderboard.
 
-The name and the logo are based on Valorant's *agent* Cypher, a playable character known for retrieving information about enemies.
+The name and the logo are based on Valorant's *agent* Cypher, a playable character known for retrieving information about foes.
 
 Check the repo [here](https://github.com/nsaadig16/Cypher)! 
  

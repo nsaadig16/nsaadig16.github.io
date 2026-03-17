@@ -1,0 +1,39 @@
+---
+title: Dockerfiler
+abstract: A Python package that generates Dockerfiles given some prompts
+categories: Personal project
+image: "/imgs/dockerfiler.png"
+author: 
+    - name: Naïm Saadi Gallego
+      url: https://linkedin.com/in/nsaadig16
+---
+
+<img src="/imgs/dockerfiler.png" width=300 align=center class="imgs">
+
+<p></p>
+
+## Description
+
+**Dockerfiler** is a Python package that creates Dockerfiles based on templates and parameters entered by the user.
+
+It uses Jinja2 for the templates and InquirerPy to retrieve the specific parameters.
+
+Check the repo [here](https://github.com/nsaadig16/dockerfiler)! 
+
+The package is published to [PyPi](https://pypi.org/project/dockerfiler/) and can be used by running  `uvx dockerfiler`.
+
+## Development process
+
+<p align="justify">
+I was tired of making the same Dockerfile again and again, so I decided to develop a tool that could automate the procedure.
+I started looking into *Jinja2* for the creation of templates, and decided to publish the package
+in PyPi so that me and everyone who needed it could use it in a very easy way.
+
+It relies heavily on the *extension* of previously created templates, so that the addition of new ones is fast and simple.
+</p>
+
+## Technologies used
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg){width=60}
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg){width=60}
+![PyPi](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original-wordmark.svg){width=60}
