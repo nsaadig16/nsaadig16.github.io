@@ -4,4 +4,4 @@ deploy:
 	git add .
 	git commit -m "task: Deploy"
 	git push
-	quarto publish gh-pages -y
+	quarto publish gh-pages --no-prompt
