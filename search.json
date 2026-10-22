@@ -1,75 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "nsaadig16",
-    "section": "",
-    "text": "Hi! My name is Naïm Saadi Gallego.\nI’m an undergrad Computer Science student at University of Lleida (UdL). I’m passionate about technology and continuous learning. Over the past two years, I actively participated in hackathons and gamejams, which have sharpened my problem-solving skills, strengthened my teamwork abilities and improved my knowledge as a future engineer.\nI’m eager to keep growing as a developer by taking on new challenges and applying my skills to real-world projects. You can reach me at nsaadig16@gmail.com"
-  },
-  {
-    "objectID": "projects/cartes_del_mite.html#description",
-    "href": "projects/cartes_del_mite.html#description",
-    "title": "Cartes del mite",
-    "section": "Description",
-    "text": "Description\nCartes del mite is a game created at the Lleida’s 2025 Lan Party Game Jam. The game revolves around combined RPG and card mechanics, inspired by the game Slay the Spire, and themed around Catalan legends and folklore."
-  },
-  {
-    "objectID": "projects/cartes_del_mite.html#development-process",
-    "href": "projects/cartes_del_mite.html#development-process",
-    "title": "Cartes del mite",
-    "section": "Development process",
-    "text": "Development process\n\nIn this game jam, we were given the theme “Catalan folklore and legends”. We decided that creating a boss rush game, where each boss was based on a character from Catalan folklore, was the best idea. For the mechanics, we took inspiration from the game Slay the Spire and started developing our concept.\nWe also decided to try something new by using Godot as our game engine. Its system of nodes, nesting, and inheritance reminded us of object-oriented programming, which was really interesting to explore.\nThe coding was handled by Lluc, Nataly, and me, while David focused on sprites and visuals, and Andreu worked on the game’s music and sound effects. Even though we only managed to complete a small demo, we’re motivated to keep developing the project and aim for a more polished final design."
-  },
-  {
-    "objectID": "projects/cartes_del_mite.html#technologies-used",
-    "href": "projects/cartes_del_mite.html#technologies-used",
-    "title": "Cartes del mite",
-    "section": "Technologies used",
-    "text": "Technologies used"
-  },
-  {
-    "objectID": "projects/cypher_bot.html#description",
-    "href": "projects/cypher_bot.html#description",
-    "title": "Cypher - A Valorant Discord Bot",
-    "section": "Description",
-    "text": "Description\nCypher is a Discord bot that retrieves information about the multiplayer game Valorant.\nIts basic commands are retrieving information about a user and displaying someone’s last match leaderboard.\nThe name and the logo are based on Valorant’s agent Cypher, a playable character known for retrieving information about foes.\nCheck the repo here!"
-  },
-  {
-    "objectID": "projects/cypher_bot.html#development-process",
-    "href": "projects/cypher_bot.html#development-process",
-    "title": "Cypher - A Valorant Discord Bot",
-    "section": "Development process",
-    "text": "Development process\n\nThis project started not so long after I started playing Valorant. I wanted to save the leaderboards for matches on a Discord Server without having to upload a screenshot everytime. I learnt how to use the discord.py module and I used henrikdev’s Valorant API to retrieve the information. I also dockerized the bot so it was easier and fast to build.\nCredits to David Garcia for the edited version of the logo."
-  },
-  {
-    "objectID": "projects/cypher_bot.html#technologies-used",
-    "href": "projects/cypher_bot.html#technologies-used",
-    "title": "Cypher - A Valorant Discord Bot",
-    "section": "Technologies used",
-    "text": "Technologies used"
-  },
-  {
-    "objectID": "projects/inazuma_api.html#description",
-    "href": "projects/inazuma_api.html#description",
-    "title": "Inazuma Eleven API",
-    "section": "Description",
-    "text": "Description\nThis Inazuma Eleven API serves endpoints to retrieve information about all the characters in the first game.\nIt takes the information from this Kaggle dataset, and uses pandas to access the information. The API is currently deployed on Render here.\nCheck the repo here!"
-  },
-  {
-    "objectID": "projects/inazuma_api.html#development-process",
-    "href": "projects/inazuma_api.html#development-process",
-    "title": "Inazuma Eleven API",
-    "section": "Development process",
-    "text": "Development process\n\nThis project started as a personal challenge when some classmates realized there weren’t any decent Inazuma Eleven API where they could get the data for a class project, just plain datasets. I decided to make the API using FastAPI, use pandas for the data management and deployed it on Render for everyone to use."
-  },
-  {
-    "objectID": "projects/inazuma_api.html#technologies-used",
-    "href": "projects/inazuma_api.html#technologies-used",
-    "title": "Inazuma Eleven API",
-    "section": "Technologies used",
-    "text": "Technologies used"
-  },
-  {
     "objectID": "projects/translator.html#description",
     "href": "projects/translator.html#description",
     "title": "Translator UABTheHack",
@@ -105,6 +35,27 @@
     "text": "Technologies used"
   },
   {
+    "objectID": "projects/dockerfiler.html#description",
+    "href": "projects/dockerfiler.html#description",
+    "title": "Dockerfiler",
+    "section": "Description",
+    "text": "Description\nDockerfiler is a Python package that creates Dockerfiles based on templates and parameters entered by the user.\nIt uses Jinja2 for the templates and InquirerPy to retrieve the specific parameters.\nCheck the repo here!\nThe package is published to PyPi and can be used by running uvx dockerfiler."
+  },
+  {
+    "objectID": "projects/dockerfiler.html#development-process",
+    "href": "projects/dockerfiler.html#development-process",
+    "title": "Dockerfiler",
+    "section": "Development process",
+    "text": "Development process\n\nI was tired of making the same Dockerfile again and again, so I decided to develop a tool that could automate the procedure. I started looking into Jinja2 for the creation of templates, and decided to publish the package in PyPi so that me and everyone who needed it could use it in a very easy way.\nIt relies heavily on the extension of previously created templates, so that the addition of new ones is fast and simple."
+  },
+  {
+    "objectID": "projects/dockerfiler.html#technologies-used",
+    "href": "projects/dockerfiler.html#technologies-used",
+    "title": "Dockerfiler",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
     "objectID": "projects/tcgudl.html#description",
     "href": "projects/tcgudl.html#description",
     "title": "Trading Card Game UdL",
@@ -122,27 +73,6 @@
     "objectID": "projects/tcgudl.html#technologies-used",
     "href": "projects/tcgudl.html#technologies-used",
     "title": "Trading Card Game UdL",
-    "section": "Technologies used",
-    "text": "Technologies used"
-  },
-  {
-    "objectID": "projects/voyagers_choice.html#description",
-    "href": "projects/voyagers_choice.html#description",
-    "title": "Voyager’s choice",
-    "section": "Description",
-    "text": "Description\nVoyager’s choice is a website used to plan a trip with your friends. You and your trip companions will join a room, where a slideshow of travel destinations will show up. Everyone can vote on it and take part in the final decision.\nCheck the repo here!"
-  },
-  {
-    "objectID": "projects/voyagers_choice.html#development-process",
-    "href": "projects/voyagers_choice.html#development-process",
-    "title": "Voyager’s choice",
-    "section": "Development process",
-    "text": "Development process\n\nAt HackUPC 2025, we developed a website for the SkyScanner challenge called “Voyager’s Choice.” I worked on the backend alongside Lluc Vivet, using Gemini’s API to process the data and SQLite as our database.\nThe structure was quite simple: the frontend collected a form with the user’s trip preferences, and the backend processed it with Gemini and the flight database provided by SkyScanner. It then returned a pseudo-presentation that updated dynamically with each vote.\nThis project was both a way to explore new tools and an opportunity to overcome personal challenges, as we learned to work with FastAPI and noSQL databases."
-  },
-  {
-    "objectID": "projects/voyagers_choice.html#technologies-used",
-    "href": "projects/voyagers_choice.html#technologies-used",
-    "title": "Voyager’s choice",
     "section": "Technologies used",
     "text": "Technologies used"
   },
@@ -168,31 +98,101 @@
     "text": "Technologies used"
   },
   {
-    "objectID": "projects/dockerfiler.html#description",
-    "href": "projects/dockerfiler.html#description",
-    "title": "Dockerfiler",
-    "section": "Description",
-    "text": "Description\nDockerfiler is a Python package that creates Dockerfiles based on templates and parameters entered by the user.\nIt uses Jinja2 for the templates and InquirerPy to retrieve the specific parameters.\nCheck the repo here!\nThe package is published to PyPi and can be used by running uvx dockerfiler."
-  },
-  {
-    "objectID": "projects/dockerfiler.html#development-process",
-    "href": "projects/dockerfiler.html#development-process",
-    "title": "Dockerfiler",
-    "section": "Development process",
-    "text": "Development process\n\nI was tired of making the same Dockerfile again and again, so I decided to develop a tool that could automate the procedure. I started looking into Jinja2 for the creation of templates, and decided to publish the package in PyPi so that me and everyone who needed it could use it in a very easy way.\nIt relies heavily on the extension of previously created templates, so that the addition of new ones is fast and simple."
-  },
-  {
-    "objectID": "projects/dockerfiler.html#technologies-used",
-    "href": "projects/dockerfiler.html#technologies-used",
-    "title": "Dockerfiler",
-    "section": "Technologies used",
-    "text": "Technologies used"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "nsaadig16",
     "section": "",
     "text": "Cartes del mite\n\n\n\nGame jam project\n\n\n\nRPG card game based on Catalan folklore\n\n\n\n\n\n\n\n\n\n\n\n\nCypher - A Valorant Discord Bot\n\n\n\nPersonal project\n\n\n\nA Discord bot developed in Python that retrieves information on Valorant Matches.\n\n\n\n\n\n\n\n\n\n\n\n\nDockerfiler\n\n\n\nPersonal project\n\n\n\nA Python package that generates Dockerfiles given some prompts\n\n\n\n\n\n\n\n\n\n\n\n\nInazuma Eleven API\n\n\n\nPersonal project\n\n\n\nAn Inazuma Eleven API based on a Kaggle dataset\n\n\n\n\n\n\n\n\n\n\n\n\nOperació: Gravitar\n\n\n\nGame jam project\n\n\n\nTower defense game inspired by the theme “Out of orbit”\n\n\n\n\n\n\n\n\n\n\n\n\nThe HackEPS website\n\n\n\nUniversity project\n\n\n\nThe website for the HackEPS, the hackathon at UdL\n\n\n\n\n\n\n\n\n\n\n\n\nTrading Card Game UdL\n\n\n\nUniversity project\n\n\n\nWeb app built in Django that replicates a trading card game\n\n\n\n\n\n\n\n\n\n\n\n\nTranslator UABTheHack\n\n\n\nHackathon project\n\n\n\nPython pip library using Google Translator\n\n\n\n\n\n\n\n\n\n\n\n\nVoyager’s choice\n\n\n\nHackathon project\n\n\n\nWebsite to plan a trip with your friends\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nsaadig16",
+    "section": "",
+    "text": "Hi! My name is Naïm Saadi Gallego.\nI’m an undergrad Computer Science student at University of Lleida (UdL). I’m passionate about technology and continuous learning. Over the past two years, I actively participated in hackathons and gamejams, which have sharpened my problem-solving skills, strengthened my teamwork abilities and improved my knowledge as a future engineer.\nI’m eager to keep growing as a developer by taking on new challenges and applying my skills to real-world projects. You can reach me at nsaadig16@gmail.com"
+  },
+  {
+    "objectID": "projects/cartes_del_mite.html#description",
+    "href": "projects/cartes_del_mite.html#description",
+    "title": "Cartes del mite",
+    "section": "Description",
+    "text": "Description\nCartes del mite is a game created at the Lleida’s 2025 Lan Party Game Jam. The game revolves around combined RPG and card mechanics, inspired by the game Slay the Spire, and themed around Catalan legends and folklore."
+  },
+  {
+    "objectID": "projects/cartes_del_mite.html#development-process",
+    "href": "projects/cartes_del_mite.html#development-process",
+    "title": "Cartes del mite",
+    "section": "Development process",
+    "text": "Development process\n\nIn this game jam, we were given the theme “Catalan folklore and legends”. We decided that creating a boss rush game, where each boss was based on a character from Catalan folklore, was the best idea. For the mechanics, we took inspiration from the game Slay the Spire and started developing our concept.\nWe also decided to try something new by using Godot as our game engine. Its system of nodes, nesting, and inheritance reminded us of object-oriented programming, which was really interesting to explore.\nThe coding was handled by Lluc, Nataly, and me, while David focused on sprites and visuals, and Andreu worked on the game’s music and sound effects. Even though we only managed to complete a small demo, we’re motivated to keep developing the project and aim for a more polished final design."
+  },
+  {
+    "objectID": "projects/cartes_del_mite.html#technologies-used",
+    "href": "projects/cartes_del_mite.html#technologies-used",
+    "title": "Cartes del mite",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
+    "objectID": "projects/inazuma_api.html#description",
+    "href": "projects/inazuma_api.html#description",
+    "title": "Inazuma Eleven API",
+    "section": "Description",
+    "text": "Description\nThis Inazuma Eleven API serves endpoints to retrieve information about all the characters in the first game.\nIt takes the information from this Kaggle dataset, and uses pandas to access the information. The API is currently deployed on Render here.\nCheck the repo here!"
+  },
+  {
+    "objectID": "projects/inazuma_api.html#development-process",
+    "href": "projects/inazuma_api.html#development-process",
+    "title": "Inazuma Eleven API",
+    "section": "Development process",
+    "text": "Development process\n\nThis project started as a personal challenge when some classmates realized there weren’t any decent Inazuma Eleven API where they could get the data for a class project, just plain datasets. I decided to make the API using FastAPI, use pandas for the data management and deployed it on Render for everyone to use."
+  },
+  {
+    "objectID": "projects/inazuma_api.html#technologies-used",
+    "href": "projects/inazuma_api.html#technologies-used",
+    "title": "Inazuma Eleven API",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
+    "objectID": "projects/cypher_bot.html#description",
+    "href": "projects/cypher_bot.html#description",
+    "title": "Cypher - A Valorant Discord Bot",
+    "section": "Description",
+    "text": "Description\nCypher is a Discord bot that retrieves information about the multiplayer game Valorant.\nIts basic commands are retrieving information about a user and displaying someone’s last match leaderboard.\nThe name and the logo are based on Valorant’s agent Cypher, a playable character known for retrieving information about foes.\nCheck the repo here!"
+  },
+  {
+    "objectID": "projects/cypher_bot.html#development-process",
+    "href": "projects/cypher_bot.html#development-process",
+    "title": "Cypher - A Valorant Discord Bot",
+    "section": "Development process",
+    "text": "Development process\n\nThis project started not so long after I started playing Valorant. I wanted to save the leaderboards for matches on a Discord Server without having to upload a screenshot everytime. I learnt how to use the discord.py module and I used henrikdev’s Valorant API to retrieve the information. I also dockerized the bot so it was easier and fast to build.\nCredits to David Garcia for the edited version of the logo."
+  },
+  {
+    "objectID": "projects/cypher_bot.html#technologies-used",
+    "href": "projects/cypher_bot.html#technologies-used",
+    "title": "Cypher - A Valorant Discord Bot",
+    "section": "Technologies used",
+    "text": "Technologies used"
+  },
+  {
+    "objectID": "projects/voyagers_choice.html#description",
+    "href": "projects/voyagers_choice.html#description",
+    "title": "Voyager’s choice",
+    "section": "Description",
+    "text": "Description\nVoyager’s choice is a website used to plan a trip with your friends. You and your trip companions will join a room, where a slideshow of travel destinations will show up. Everyone can vote on it and take part in the final decision.\nCheck the repo here!"
+  },
+  {
+    "objectID": "projects/voyagers_choice.html#development-process",
+    "href": "projects/voyagers_choice.html#development-process",
+    "title": "Voyager’s choice",
+    "section": "Development process",
+    "text": "Development process\n\nAt HackUPC 2025, we developed a website for the SkyScanner challenge called “Voyager’s Choice.” I worked on the backend alongside Lluc Vivet, using Gemini’s API to process the data and SQLite as our database.\nThe structure was quite simple: the frontend collected a form with the user’s trip preferences, and the backend processed it with Gemini and the flight database provided by SkyScanner. It then returned a pseudo-presentation that updated dynamically with each vote.\nThis project was both a way to explore new tools and an opportunity to overcome personal challenges, as we learned to work with FastAPI and noSQL databases."
+  },
+  {
+    "objectID": "projects/voyagers_choice.html#technologies-used",
+    "href": "projects/voyagers_choice.html#technologies-used",
+    "title": "Voyager’s choice",
+    "section": "Technologies used",
+    "text": "Technologies used"
   }
 ]
